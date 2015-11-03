@@ -7,7 +7,7 @@ class arraybuilder:
 	def __init__(self):
 		self.self = self
 
-def twoDArray():
+def twoDArray():	
 	
 	"""The twoDArray() method takes no arguments. It generates
 	four outputs that answer questions for DSGA-1007 HW 7.
