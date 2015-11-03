@@ -1,0 +1,559 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"as",
+				"as"
+			],
+			[
+				"isp",
+				"isspace	function"
+			],
+			[
+				"int",
+				"integers	statement"
+			],
+			[
+				"split",
+				"splitinput	statement"
+			],
+			[
+				"interval",
+				"Interval	class"
+			],
+			[
+				"hello",
+				"helloclass"
+			],
+			[
+				"k",
+				"k	statement"
+			],
+			[
+				"maste",
+				"masterPopulated	function"
+			],
+			[
+				"a",
+				"a	statement"
+			],
+			[
+				"list",
+				"listofintervals	statement"
+			],
+			[
+				"li",
+				"listofintervals	param"
+			],
+			[
+				"x",
+				"x	param"
+			],
+			[
+				"y",
+				"y	statement"
+			],
+			[
+				"mean",
+				"mean_weight"
+			],
+			[
+				"w",
+				"weights"
+			],
+			[
+				"Sample",
+				"SampleSelectController	[Custom Apex Class]"
+			],
+			[
+				"tis",
+				"tissueSample"
+			],
+			[
+				"Sant",
+				"StandardController"
+			],
+			[
+				"head",
+				"headerValue	(String)"
+			],
+			[
+				"se",
+				"seqRun"
+			],
+			[
+				"seq",
+				"seqRunId"
+			],
+			[
+				"Sequ",
+				"Sequence_Run__c"
+			],
+			[
+				"Vari",
+				"Variant_2__c"
+			],
+			[
+				"clc",
+				"clc1"
+			],
+			[
+				"rep",
+				"repvupdte"
+			],
+			[
+				"var",
+				"varName1"
+			],
+			[
+				"Cl",
+				"CLC_Result__c	[Sobject Name]"
+			],
+			[
+				"set",
+				"setscale"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"Variant",
+				"Variant_2__c"
+			],
+			[
+				"One",
+				"ONECUT"
+			],
+			[
+				"Var",
+				"Variant"
+			],
+			[
+				"Varian",
+				"Variant_2__r"
+			],
+			[
+				"CL",
+				"CLC_Result__c"
+			],
+			[
+				"CLS",
+				"clcrslt"
+			],
+			[
+				"uc",
+				"uc2Temp"
+			],
+			[
+				"u",
+				"uc1Temp"
+			],
+			[
+				"Test",
+				"Test	[Standard Apex Class]"
+			],
+			[
+				"q",
+				"-q"
+			],
+			[
+				"Asse",
+				"assertEquals()"
+			],
+			[
+				"Cy",
+				"Cystatin_B_PASS_FAIL__c"
+			],
+			[
+				"uP",
+				"uPBs"
+			],
+			[
+				"Urin",
+				"Urine_Processing_Batch__c"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "git",
+		"selected_items":
+		[
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"Git:",
+				"Git: Init"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"SublimeREPL",
+				"SublimeREPL: Python"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: intal",
+				"Package Control: Install Package"
+			],
+			[
+				"open",
+				"MavensMate: Open Project..."
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"/Users/matthewdunn/Dropbox/MD Consulting/Tools/PCLS JitterSyn2 5.27.15 copy/PCLS JitterSyn2 5.27.15.sublime-project",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/matthewdunn/Dropbox/NYU/Fall2015/DSGA1007/HW/assignment6/README.md",
+		"/Users/matthewdunn/Dropbox/NYU/Fall2015/DSGA1007/HW/assignment6/mtd368/intervalv1.py",
+		"/Users/matthewdunn/Dropbox/NYU/Fall2015/DSGA1007/HW/assignment6/mtd368/__int__.py",
+		"/Users/matthewdunn/Dropbox/NYU/Fall2015/DSGA1007/HW/assignment6/mtd368/helloclass.py",
+		"/Users/matthewdunn/Dropbox/NYU/Fall2015/DSGA1007/HW/assignment6/mtd368/uservalidation.py",
+		"/Users/matthewdunn/Dropbox/NYU/Fall2015/DSGA1007/HW/assignment6/mtd368/main.py",
+		"/Users/matthewdunn/Dropbox/NYU/Fall2015/DSGA1007/HW/assignment6/mtd368/ex1.py",
+		"/Users/matthewdunn/Dropbox/NYU/Fall2015/DSGA1007/HW/assignment6/mtd368/print \"Hello World!\"\nprint \"Hello Again\"\nprint \"I like typing this.\"\nprint \"This is fun.\"\nprint 'Yay! Printing.'\nprint \"I'd much rather you 'not'.\"\nex1.py",
+		"/Users/matthewdunn/Dropbox/NYU/Fall2015/DSGA1007/HW/assignment6/mtd368/tests/__int__",
+		"/Users/matthewdunn/Library/Application Support/Sublime Text 3/Packages/MavensMate/mavensmate.sublime-settings",
+		"/Users/matthewdunn/Library/Application Support/Sublime Text 3/Packages/User/mavensmate.sublime-settings",
+		"/Users/matthewdunn/Library/Application Support/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/Users/matthewdunn/Library/Application Support/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/Users/matthewdunn/Library/Application Support/Sublime Text 3/Packages/MavensMate/messages/5.0.0.txt",
+		"/Users/matthewdunn/Library/Application Support/Sublime Text 3/Packages/MavensMate/sublime/settings-help.txt",
+		"/Users/matthewdunn/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/matthewdunn/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/matthewdunn/Dropbox/MD Consulting/Tools/TestOwn2/src/classes/BioMarkerController.cls",
+		"/Users/matthewdunn/Dropbox/MD Consulting/Tools/TestOwn2/apex-scripts/MattTest.cls",
+		"/Users/matthewdunn/Dropbox/MD Consulting/Tools/TestOwn2/src/classes/SampleSelectController.cls",
+		"/Users/matthewdunn/Dropbox/MD Consulting/Tools/TestOwn2/src/classes/ReportedVariantActionTest.cls",
+		"/Users/matthewdunn/Dropbox/MD Consulting/Tools/TestOwn2/src/classes/SampleSelectControllerTest.cls",
+		"/Users/matthewdunn/Dropbox/MD Consulting/Tools/TestOwn2/src/pages/SampleSelector.page",
+		"/Users/matthewdunn/Dropbox/MD Consulting/Tools/TestOwn2/src/classes/TissueSelectorController.cls",
+		"/Users/matthewdunn/Dropbox/MD Consulting/Tools/TestOwn2/src/classes/AmpliconResultBeforeTestController.cls",
+		"/Users/matthewdunn/Dropbox/MD Consulting/Tools/TestOwn2/src/classes/SampleSelectControllerTest2.cls",
+		"/Users/matthewdunn/Dropbox/MD Consulting/Tools/TestOwn2/src/classes/BioMarkerSampleTest.cls",
+		"/Users/matthewdunn/Dropbox/MD Consulting/Tools/TestOwn2/src/classes/SampleSelectorControllerTest.cls",
+		"/Users/matthewdunn/Dropbox/MD Consulting/Tools/TestOwn2/src/classes/TissueSelectorControllerTest.cls",
+		"/Users/matthewdunn/Dropbox/MD Consulting/Tools/TestOwn2/apex-scripts/MattScratch.cls",
+		"/Users/matthewdunn/Dropbox/MD Consulting/Tools/TestOwn2/src/pages/BioMarkerSample.page",
+		"/Users/matthewdunn/Dropbox/MD Consulting/Tools/TestOwn2/src/classes/BioMarkerSampleController.cls-meta.xml",
+		"/Users/matthewdunn/Dropbox/MD Consulting/Tools/TestOwn2/src/pages/BioMarkerSample2.page",
+		"/Users/matthewdunn/Dropbox/MD Consulting/Tools/TestOwn2/src/classes/BioMarkerSampleController.cls",
+		"/Users/matthewdunn/Dropbox/MD Consulting/Tools/TestOwn2/src/triggers/InventoryUpdate.trigger",
+		"/Users/matthewdunn/Dropbox/MD Consulting/Tools/TestOwn2/src/triggers/OrderItemUpdate.trigger",
+		"/Users/matthewdunn/Dropbox/MD Consulting/Tools/TestOwn2/src/classes/LREngine.cls",
+		"/Users/matthewdunn/Dropbox/MD Consulting/Tools/TestOwn2/src/triggers/ReportedVariantBefore.trigger",
+		"/Users/matthewdunn/Dropbox/MD Consulting/Tools/TestOwn2/src/classes/CaseSampleSelectorController.cls",
+		"/Users/matthewdunn/Dropbox/MD Consulting/Tools/TestOwn2/src/pages/TissueSelector.page",
+		"/Users/matthewdunn/Dropbox/MD Consulting/Tools/TestOwn2/src/pages/SampleSelectorController.page",
+		"/Users/matthewdunn/Dropbox/MD Consulting/Tools/TestOwn2/src/triggers/OneCutPolyNomial.trigger",
+		"/Users/matthewdunn/Dropbox/MD Consulting/Tools/TestOwn2/src/classes/OneCutPolyNomialTestController.cls",
+		"/Users/matthewdunn/Dropbox/MD Consulting/Tools/TestOwn2/src/classes/ReportedVariantAction.cls",
+		"/Users/matthewdunn/Dropbox/MD Consulting/Tools/TestOwn2/src/classes/CystatinBSelectorController.cls",
+		"/Users/matthewdunn/Dropbox/MD Consulting/Tools/TestOwn2/TestOwn2.sublime-settings",
+		"/Users/matthewdunn/Dropbox/MD Consulting/Tools/TestOwn2/src/classes/UrineBatchProcessingController.cls",
+		"/Users/matthewdunn/Dropbox/MD Consulting/Tools/TestOwn2/src/pages/UrineBatchProcessing.page",
+		"/Users/matthewdunn/Dropbox/MD Consulting/Tools/TestOwn2/src/triggers/PathGroupStage.trigger",
+		"/Users/matthewdunn/Dropbox/MD Consulting/Tools/TestOwn2/src/triggers/PrimerSeqBaseCount.trigger",
+		"/Users/matthewdunn/Dropbox/MD Consulting/Tools/PCLS Prod 5.28.15/src/pages/SequenceDataVisualv1.page",
+		"/Users/matthewdunn/Dropbox/MD Consulting/Tools/PCLS Prod 5.28.15/src/pages/SequenceDataVisualv3.page",
+		"/Users/matthewdunn/Dropbox/MD Consulting/Tools/PCLS Prod 5.28.15/src/classes/LREngine.cls",
+		"/Users/matthewdunn/Dropbox/MD Consulting/Tools/PCLS JitterSyn2 5.27.15/src/classes/ReportedVariantAction.cls",
+		"/Users/matthewdunn/Dropbox/MD Consulting/Tools/SSTB Sandbox 5.21.15/SSTB Sandbox 5.21.15.sublime-settings"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"disj",
+			"str_result",
+			"join(str_result)",
+			"join",
+			"newint",
+			"intervals",
+			"canMerge",
+			"conf_interval_list",
+			"conf_interval",
+			"random_ind",
+			"approximate_confidence_interval",
+			"compute_sample_variance",
+			"x",
+			"approximate_confidence_interval",
+			"AmpliconMatching__c",
+			"repVar",
+			"myKey",
+			"mykey",
+			"number",
+			"seqRunChecks",
+			"SampleSelectorController",
+			"TissueSelectorController",
+			"TissueSelector",
+			"soqlProjection",
+			"where",
+			"POS",
+			"AND",
+			"Sample_Type",
+			"type",
+			"path",
+			"Pathology_Report__c",
+			"samples",
+			"BSP",
+			"bsp",
+			"BSP",
+			" Pass/Fail",
+			"Sequencing",
+			"FGFR",
+			".ts.du",
+			"selectAll",
+			"name",
+			"if",
+			"message",
+			"selectal",
+			"HRAS",
+			"Pos/Neg",
+			"Fail_Date__c",
+			"Deadline_5__c",
+			"Deadline_4__c",
+			"Deadline_3__c",
+			"Deadline_2__c",
+			"Deadline_1__c",
+			"==",
+			"\\'Fail\\'",
+			"X__c",
+			"preexistingTissueSampleIds",
+			"u[1]",
+			"disc",
+			"Integer",
+			"i",
+			"u(2)",
+			"u(1)",
+			"]) ",
+			"Line",
+			"u[2]",
+			"u[1]",
+			"relevantGeneFields",
+			"numberOfGenesSelected",
+			"FGFR3StyleClass",
+			"patient"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"SampleSelectController",
+			"SampleSelectorController",
+			"SampleSelector",
+			"&&",
+			"samp",
+			"Vial__c",
+			"biomarkers",
+			"",
+			".du",
+			"dummySeqRR.Vial__c",
+			"CDK2A",
+			"Pass/Fail",
+			"TP53_PASS_FAIL_Date__c",
+			"TERT_PASS_FAIL_Date__c",
+			"PIK3CA_PASS_FAIL_Date__c",
+			"CDK2A_PASS_FAIL_Date__c",
+			"FGFR3_PASS_FAIL_Date__c",
+			"=",
+			"NULL",
+			"u[1]",
+			"u[0]",
+			">>> Line",
+			"u[1]",
+			"u[0]"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MavensMate-OutputPanel":
+	{
+		"height": 112.0
+	},
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"mtd368/assignment6.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 298.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
