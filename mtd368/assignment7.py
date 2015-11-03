@@ -1,14 +1,18 @@
+#Program Purpose: execute a number of functions using Numpy.
+#Author: Matthew T. Dunn
+#Date: 11/1/15
+
 import sys
-import array as ar
-from array import arraybuilder, twoDArray, thedivider, arraymath
+import matplotlib.pyplot as plt
+import array_module
+from array_module import arraybuilder, twoDArray, thedivider, arraymath, generate_mandelbrot
+
 
 try:
 	question1 = twoDArray()
 	question2 = thedivider()
 	question3 = arraymath()
-except Exception as e: raise
-
-
+	question4 = generate_mandelbrot()
 except KeyboardInterrupt, ValueError:
      print "\n Interrupted!"
 except EOFError:
